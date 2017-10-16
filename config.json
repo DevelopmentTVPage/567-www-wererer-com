@@ -1,0 +1,15 @@
+{
+    "title": "Sg",
+    "baseURL": "https:\/\/www.wererer.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1758397",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "wererer.com"
+    }
+}
